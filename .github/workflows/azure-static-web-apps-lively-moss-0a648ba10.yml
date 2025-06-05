@@ -1,14 +1,15 @@
-name: Azure Static Web Apps CI/CD
+ # name: Azure Static Web Apps CI/CD
 
 on:
   push:
     branches:
-      - gh-pages
+       # - gh-pages
+       - unknown
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
-      - gh-pages
-
+       # - gh-pages
+       - unknown
 jobs:
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
