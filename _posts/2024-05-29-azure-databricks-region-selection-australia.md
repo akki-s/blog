@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strategic Considerations for Azure Databricks Region Selection in Australia
-date: '2024-95-29T18:48:00.000+10:00'
+date: '2024-05-29T18:48:00.000+10:00'
 comments: true
 author: aakash
 categories: [Azure, Cloud, Databricks]
