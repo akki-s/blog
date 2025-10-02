@@ -5,7 +5,7 @@ date: '2023-12-04T18:48:00.000+10:00'
 comments: true
 author: aakash
 categories: [Azure, Cloud]
-tags: [Azure, Azure Reserved Instanced, Cloud Architecture, Cloud Architecture Guidance]
+tags: [Azure, Azure Reserved Instance, Cloud Architecture, Cloud Architecture Guidance]
 ---
 
 Cloud computing offers unparalleled flexibility, but optimizing costs can be a complex endeavour. One powerful tool in the arsenal of cloud cost management is Reserved Instances (RIs). This commitment to specific computing resources for a defined duration provides a significant opportunity to lower costs.
