@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing Azure Reserved Instances (RI) and Azure Savings Plan
+title: Understanding Reserved Instances
 date: '2023-12-04T18:48:00.000+10:00'
 comments: true
 author: aakash
